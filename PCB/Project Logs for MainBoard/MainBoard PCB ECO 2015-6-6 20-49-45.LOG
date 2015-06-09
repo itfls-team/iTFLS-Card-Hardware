@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=E1 Old Footprint=PCBCOMPONENT_1 New Footprint=A5839
+Added Pin To Net: NetName=GND Pin=E1-2
